@@ -1,0 +1,10 @@
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\bin\Debug\Shipping-Charge-Program.exe.config
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\bin\Debug\Shipping-Charge-Program.exe
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\bin\Debug\Shipping-Charge-Program.pdb
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\bin\Debug\Shipping-Charge-Program.xml
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping_Charge_Program.Form1.resources
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping_Charge_Program.Resources.resources
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping-Charge-Program.vbproj.GenerateResource.Cache
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping-Charge-Program.exe
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping-Charge-Program.xml
+c:\users\deon\documents\visual studio 2013\Projects\Shipping-Charge-Program\Shipping-Charge-Program\obj\Debug\Shipping-Charge-Program.pdb
